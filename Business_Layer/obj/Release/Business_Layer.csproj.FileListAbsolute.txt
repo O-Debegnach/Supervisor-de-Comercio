@@ -1,0 +1,334 @@
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\Business_Layer.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\Business_Layer.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\Data_Layer.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\DocumentFormat.OpenXml.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\FSharp.Core.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\ScrapySharp.Core.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\ScrapySharp.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\itextsharp.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\Data_Layer.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\DocumentFormat.OpenXml.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\FSharp.Core.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\itextsharp.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\cs\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\de\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\en\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\es\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\fr\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\it\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\ja\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\ko\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\pl\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\ru\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\tr\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.csprojAssemblyReference.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.csproj.CopyComplete
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\Business_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\Business_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\Data_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\FSharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\ScrapySharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\ScrapySharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\itextsharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\Data_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\FSharp.Core.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\itextsharp.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.csprojAssemblyReference.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.csproj.CopyComplete
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\Business_Layer.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\Business_Layer.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\Data_Layer.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\FSharp.Core.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\ScrapySharp.Core.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\ScrapySharp.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\itextsharp.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\Data_Layer.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\FSharp.Core.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\itextsharp.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.csprojAssemblyReference.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.csproj.CopyComplete
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\Business_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\Business_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\Data_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\FSharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\ScrapySharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\ScrapySharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\itextsharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\Data_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\FSharp.Core.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\itextsharp.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.csprojAssemblyReference.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.csproj.CopyComplete
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\Business_Layer.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\Business_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\Data_Layer.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\DocumentFormat.OpenXml.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\FSharp.Core.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\ScrapySharp.Core.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\ScrapySharp.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\itextsharp.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\Data_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\DocumentFormat.OpenXml.xml
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\FSharp.Core.xml
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.pdb
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\HtmlAgilityPack.xml
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\itextsharp.xml
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\cs\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\de\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\en\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\es\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\fr\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\it\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\ja\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\ko\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\pl\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\pt-BR\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\ru\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\tr\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\zh-Hans\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\bin\Release\zh-Hant\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.csprojAssemblyReference.cache
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.csproj.CopyComplete
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.dll
+E:\Visual Studio\Supervisor de Comercio\Business_Layer\obj\Release\Business_Layer.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Business_Layer.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Business_Layer.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Data_Layer.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\FSharp.Core.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ScrapySharp.Core.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ScrapySharp.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\itextsharp.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Data_Layer.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\FSharp.Core.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\itextsharp.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csproj.CopyComplete
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Business_Layer.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Business_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Data_Layer.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\DocumentFormat.OpenXml.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\FSharp.Core.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ScrapySharp.Core.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ScrapySharp.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\itextsharp.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Data_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\DocumentFormat.OpenXml.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\FSharp.Core.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\itextsharp.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\cs\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\de\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\en\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\es\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\fr\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\it\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ja\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ko\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\pl\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\pt-BR\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ru\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\tr\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\zh-Hans\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\zh-Hant\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csprojAssemblyReference.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csproj.CopyComplete
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Business_Layer.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Business_Layer.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Data_Layer.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\DocumentFormat.OpenXml.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\FSharp.Core.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ScrapySharp.Core.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ScrapySharp.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\itextsharp.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Data_Layer.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\DocumentFormat.OpenXml.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\FSharp.Core.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\itextsharp.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\cs\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\de\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\en\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\es\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\fr\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\it\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ja\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ko\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\pl\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\pt-BR\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ru\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\tr\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\zh-Hans\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\zh-Hant\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csprojAssemblyReference.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csproj.CoreCompileInputs.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csproj.CopyComplete
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Business_Layer.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Business_Layer.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Data_Layer.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\DocumentFormat.OpenXml.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\FSharp.Core.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ScrapySharp.Core.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ScrapySharp.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\itextsharp.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Data_Layer.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\DocumentFormat.OpenXml.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\FSharp.Core.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\itextsharp.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\cs\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\de\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\en\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\es\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\fr\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\it\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ja\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ko\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\pl\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\pt-BR\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ru\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\tr\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\zh-Hans\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\zh-Hant\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csprojAssemblyReference.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csproj.CoreCompileInputs.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csproj.CopyComplete
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Business_Layer.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Business_Layer.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Data_Layer.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\DocumentFormat.OpenXml.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\FSharp.Core.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ScrapySharp.Core.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ScrapySharp.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\itextsharp.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\Data_Layer.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\DocumentFormat.OpenXml.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\FSharp.Core.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\HtmlAgilityPack.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\itextsharp.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\cs\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\de\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\en\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\es\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\fr\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\it\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ja\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ko\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\pl\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\pt-BR\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\ru\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\tr\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\zh-Hans\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\bin\Release\zh-Hant\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csprojAssemblyReference.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csproj.CoreCompileInputs.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.csproj.CopyComplete
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Business_Layer\obj\Release\Business_Layer.pdb

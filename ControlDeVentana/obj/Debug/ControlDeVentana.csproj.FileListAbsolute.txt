@@ -1,0 +1,37 @@
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\bin\Debug\ControlDeVentana.dll
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\bin\Debug\ControlDeVentana.pdb
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\obj\Debug\UserControl1.g.cs
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana_MarkupCompile.cache
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana_MarkupCompile.lref
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\obj\Debug\UserControl1.baml
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.g.resources
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.Properties.Resources.resources
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.dll
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.pdb
+C:\Users\andre\source\repos\wpfchrometabs-master\ControlDeVentana\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\bin\Debug\ControlDeVentana.dll
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\bin\Debug\ControlDeVentana.pdb
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\obj\Debug\UserControl1.g.cs
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana_MarkupCompile.cache
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana_MarkupCompile.lref
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\obj\Debug\UserControl1.baml
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.g.resources
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.Properties.Resources.resources
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.dll
+C:\Users\andre\OneDrive\wpfchrometabs-master\ControlDeVentana\obj\Debug\ControlDeVentana.pdb
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\bin\Debug\ControlDeVentana.dll
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\bin\Debug\ControlDeVentana.pdb
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\obj\Debug\ControlDeVentana.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\obj\Debug\UserControl1.g.cs
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\obj\Debug\ControlDeVentana_MarkupCompile.cache
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\obj\Debug\ControlDeVentana_MarkupCompile.lref
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\obj\Debug\UserControl1.baml
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\obj\Debug\ControlDeVentana.g.resources
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\obj\Debug\ControlDeVentana.Properties.Resources.resources
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\obj\Debug\ControlDeVentana.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\obj\Debug\ControlDeVentana.dll
+C:\Users\andre\source\repos\Supervisor de Comercio\ControlDeVentana\obj\Debug\ControlDeVentana.pdb

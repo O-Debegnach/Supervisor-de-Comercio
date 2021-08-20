@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>T:\Publicaciones\SupComercio %28V.Vieja%29\|C:\Users\andre\Mega\Compartida\Programas\SC\|G:\Cosas varias\SC\|C:\Users\debeg\Desktop\SC%28Solo precios%29\|C:\Users\andre\Mega\Compartida\Programas\SC%28sin clickonce%29\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://vydasoc.ddns.net/SupervisorComercio/|http://192.168.1.8/SupervisorComercio/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,139 @@
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\bin\Release\Data_Layer.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\bin\Release\Data_Layer.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\bin\Release\itextsharp.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\bin\Release\WindowsBase.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\bin\Release\itextsharp.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csprojAssemblyReference.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer_MarkupCompile.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer_MarkupCompile.lref
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\obj\Release\Resources\Boton_Tilde_Black.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.g.resources
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.Properties.Resources.resources
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csproj.GenerateResource.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csproj.CopyComplete
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\bin\Release\Data_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\bin\Release\Data_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\bin\Release\itextsharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\bin\Release\WindowsBase.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\bin\Release\itextsharp.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csprojAssemblyReference.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer_MarkupCompile.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer_MarkupCompile.lref
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\obj\Release\Resources\Boton_Tilde_Black.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.g.resources
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.Properties.Resources.resources
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csproj.GenerateResource.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csproj.CopyComplete
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\bin\Release\Data_Layer.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\bin\Release\Data_Layer.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\bin\Release\itextsharp.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\bin\Release\WindowsBase.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\bin\Release\itextsharp.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csprojAssemblyReference.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer_MarkupCompile.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer_MarkupCompile.lref
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\obj\Release\Resources\Boton_Tilde_Black.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.g.resources
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.Properties.Resources.resources
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csproj.GenerateResource.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csproj.CopyComplete
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\bin\Release\Data_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\bin\Release\Data_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\bin\Release\itextsharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\bin\Release\WindowsBase.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\bin\Release\itextsharp.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csprojAssemblyReference.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer_MarkupCompile.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer_MarkupCompile.lref
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\obj\Release\Resources\Boton_Tilde_Black.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.g.resources
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.Properties.Resources.resources
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csproj.GenerateResource.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.csproj.CopyComplete
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\Data_Layer\obj\Release\Data_Layer.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\Data_Layer.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\Data_Layer.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\itextsharp.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\WindowsBase.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\itextsharp.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer_MarkupCompile.cache
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer_MarkupCompile.lref
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Resources\Boton_Tilde_Black.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.g.resources
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.Properties.Resources.resources
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.CopyComplete
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csprojAssemblyReference.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\Data_Layer.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\Data_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\itextsharp.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\WindowsBase.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\itextsharp.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csprojAssemblyReference.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer_MarkupCompile.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer_MarkupCompile.lref
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Resources\Boton_Tilde_Black.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.g.resources
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.Properties.Resources.resources
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.GenerateResource.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.CopyComplete
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\Data_Layer.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\Data_Layer.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\itextsharp.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\WindowsBase.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\itextsharp.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csprojAssemblyReference.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer_MarkupCompile.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer_MarkupCompile.lref
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Resources\Boton_Tilde_Black.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.g.resources
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.Properties.Resources.resources
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.GenerateResource.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.CoreCompileInputs.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.CopyComplete
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\Data_Layer.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\Data_Layer.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\itextsharp.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\WindowsBase.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\itextsharp.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csprojAssemblyReference.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer_MarkupCompile.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer_MarkupCompile.lref
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Resources\Boton_Tilde_Black.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.g.resources
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.Properties.Resources.resources
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.GenerateResource.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.CoreCompileInputs.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.CopyComplete
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\Data_Layer.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\Data_Layer.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\itextsharp.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\WindowsBase.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\bin\Release\itextsharp.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csprojAssemblyReference.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer_MarkupCompile.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer_MarkupCompile.lref
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Resources\Boton_Tilde_Black.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.g.resources
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.Properties.Resources.resources
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.GenerateResource.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.CoreCompileInputs.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.csproj.CopyComplete
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\Data_Layer\obj\Release\Data_Layer.pdb

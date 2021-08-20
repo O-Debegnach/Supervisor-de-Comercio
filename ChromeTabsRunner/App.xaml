@@ -1,0 +1,19 @@
+﻿<Application x:Class="ChromiumTabsRunner.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             StartupUri="Ventanas/MainWindow.xaml">
+    <!--Ventanas/VentanaBackup.xaml-->
+    <!--Ventanas/MainWindow.xaml-->
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+
+                <ResourceDictionary Source="Resources/Styles/Boton_Tilde.xaml"/>
+                <ResourceDictionary Source="Resources/Styles/Boton_Tilde_Black.xaml"/>
+                <ResourceDictionary Source="Resources/Styles/ToggleButtonGeneric.xaml"/>
+                
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

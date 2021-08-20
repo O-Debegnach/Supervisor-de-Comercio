@@ -1,0 +1,13 @@
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ConnectionTester\bin\Release\ConnectionTester.exe.config
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ConnectionTester\bin\Release\ConnectionTester.exe
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ConnectionTester\bin\Release\ConnectionTester.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ConnectionTester\obj\Release\ConnectionTester.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ConnectionTester\obj\Release\ConnectionTester.exe
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ConnectionTester\obj\Release\ConnectionTester.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ConnectionTester\bin\Release\ConnectionTester.exe.config
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ConnectionTester\bin\Release\ConnectionTester.exe
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ConnectionTester\bin\Release\ConnectionTester.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ConnectionTester\obj\Release\ConnectionTester.csprojAssemblyReference.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ConnectionTester\obj\Release\ConnectionTester.csproj.CoreCompileInputs.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ConnectionTester\obj\Release\ConnectionTester.exe
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ConnectionTester\obj\Release\ConnectionTester.pdb

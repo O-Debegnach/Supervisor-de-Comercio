@@ -1,0 +1,1095 @@
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avcodec-57.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avdevice-57.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avfilter-6.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avformat-57.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avutil-55.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\postproc-54.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\swresample-2.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\swscale-4.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Resources\Icono_Usuario.png
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Accord.dll.config
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.config
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.manifest
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.application
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Business_Layer.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Data_Layer.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\FSharp.Core.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\itextsharp.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ScrapySharp.Core.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ScrapySharp.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Business_Layer.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.dll.config
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.dll.config
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Data_Layer.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\FSharp.Core.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\itextsharp.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\cs\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\de\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\en\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\es\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\fr\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\it\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ja\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ko\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\pl\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ru\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\tr\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csprojAssemblyReference.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\App.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\App.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_Content.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.lref
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde_Black.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\ToggleButtonGeneric.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.g.resources
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Properties.Resources.resources
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Archivos.resources
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Mensajes.resources
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.StringsCierreDeCaja.resources
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.GenerateResource.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.TrustInfo.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe.manifest
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.application
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CopyComplete
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avcodec-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avdevice-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avfilter-6.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avformat-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avutil-55.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\postproc-54.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\swresample-2.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\swscale-4.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Resources\Icono_Usuario.png
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Accord.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.config
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.manifest
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.application
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Business_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Data_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\FSharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\itextsharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ScrapySharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ScrapySharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Business_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Data_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\FSharp.Core.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\itextsharp.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csprojAssemblyReference.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\App.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\App.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_Content.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.lref
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde_Black.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\ToggleButtonGeneric.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.g.resources
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Properties.Resources.resources
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Archivos.resources
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Mensajes.resources
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.StringsCierreDeCaja.resources
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.GenerateResource.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.TrustInfo.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe.manifest
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.application
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CopyComplete
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avcodec-57.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avdevice-57.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avfilter-6.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avformat-57.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avutil-55.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\postproc-54.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\swresample-2.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\swscale-4.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Resources\Icono_Usuario.png
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Accord.dll.config
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.config
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.manifest
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.application
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Business_Layer.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Data_Layer.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\FSharp.Core.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\itextsharp.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ScrapySharp.Core.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ScrapySharp.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Business_Layer.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.dll.config
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.dll.config
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Data_Layer.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\FSharp.Core.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\itextsharp.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csprojAssemblyReference.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\App.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\App.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_Content.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.lref
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde_Black.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\ToggleButtonGeneric.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.g.resources
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Properties.Resources.resources
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Archivos.resources
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Mensajes.resources
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.StringsCierreDeCaja.resources
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.GenerateResource.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.TrustInfo.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe.manifest
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.application
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CopyComplete
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avcodec-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avdevice-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avfilter-6.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avformat-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avutil-55.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\postproc-54.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\swresample-2.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\swscale-4.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Resources\Icono_Usuario.png
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Accord.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.config
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.manifest
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.application
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Business_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Data_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\FSharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\itextsharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ScrapySharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ScrapySharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Business_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Data_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\FSharp.Core.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\itextsharp.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csprojAssemblyReference.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\App.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\App.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_Content.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.lref
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde_Black.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\ToggleButtonGeneric.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.g.resources
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Properties.Resources.resources
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Archivos.resources
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Mensajes.resources
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.StringsCierreDeCaja.resources
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.GenerateResource.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.TrustInfo.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe.manifest
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.application
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CopyComplete
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avcodec-57.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avdevice-57.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avfilter-6.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avformat-57.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\avutil-55.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\postproc-54.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\swresample-2.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\swscale-4.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Resources\Icono_Usuario.png
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Accord.dll.config
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.config
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.manifest
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.application
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.exe
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\SupervisorComercio.pdb
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Business_Layer.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Data_Layer.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\FSharp.Core.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\itextsharp.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ScrapySharp.Core.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ScrapySharp.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Business_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.pdb
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ChromeTabs.dll.config
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.pdb
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ControlDeVentana.dll.config
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Data_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.pdb
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\FSharp.Core.xml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.pdb
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\HtmlAgilityPack.xml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\itextsharp.xml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.xml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.Video.xml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\AForge.xml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\cs\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\de\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\en\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\es\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\fr\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\it\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ja\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ko\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\pl\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\pt-BR\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\ru\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\tr\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\zh-Hans\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\bin\Release\zh-Hant\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csprojAssemblyReference.cache
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\App.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\App.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_Content.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.cache
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.lref
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde_Black.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Resources\Styles\ToggleButtonGeneric.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.g.resources
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Properties.Resources.resources
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Archivos.resources
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Mensajes.resources
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.StringsCierreDeCaja.resources
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.GenerateResource.cache
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.TrustInfo.xml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe.manifest
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.application
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CopyComplete
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe
+E:\Visual Studio\Supervisor de Comercio\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avcodec-57.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avdevice-57.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avfilter-6.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avformat-57.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avutil-55.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\postproc-54.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\swresample-2.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\swscale-4.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Resources\Icono_Usuario.png
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Accord.dll.config
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.config
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.manifest
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.application
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Business_Layer.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlzEx.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Data_Layer.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\FSharp.Core.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\itextsharp.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ScrapySharp.Core.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ScrapySharp.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\System.Windows.Interactivity.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Business_Layer.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.dll.config
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.dll.config
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Data_Layer.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlzEx.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\FSharp.Core.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\itextsharp.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\App.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaBackup.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\App.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_Content.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.cache
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.lref
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde_Black.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\ToggleButtonGeneric.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaBackup.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.g.resources
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Properties.Resources.resources
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Archivos.resources
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Mensajes.resources
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.StringsCierreDeCaja.resources
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.TrustInfo.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe.manifest
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.application
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CopyComplete
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindowPrecios.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindowPrecios.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avcodec-57.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avdevice-57.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avfilter-6.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avformat-57.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avutil-55.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\postproc-54.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\swresample-2.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\swscale-4.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Resources\Icono_Usuario.png
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Accord.dll.config
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.config
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.manifest
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.application
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Business_Layer.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlzEx.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Data_Layer.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\FSharp.Core.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\itextsharp.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ScrapySharp.Core.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ScrapySharp.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\System.Windows.Interactivity.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Business_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.dll.config
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.dll.config
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Data_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlzEx.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\FSharp.Core.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\itextsharp.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\cs\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\de\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\en\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\es\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\fr\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\it\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ja\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ko\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\pl\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\pt-BR\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ru\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\tr\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\zh-Hans\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\zh-Hant\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csprojAssemblyReference.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\App.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindowPrecios.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaBackup.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\App.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_Content.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.lref
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde_Black.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\ToggleButtonGeneric.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindowPrecios.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaBackup.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.g.resources
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Properties.Resources.resources
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Archivos.resources
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Mensajes.resources
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.StringsCierreDeCaja.resources
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.GenerateResource.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CoreCompileInputs.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.TrustInfo.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe.manifest
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.application
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CopyComplete
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avcodec-57.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avdevice-57.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avfilter-6.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avformat-57.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avutil-55.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\postproc-54.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\swresample-2.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\swscale-4.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Resources\Icono_Usuario.png
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Accord.dll.config
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.config
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.manifest
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.application
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Business_Layer.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlzEx.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Data_Layer.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\FSharp.Core.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\itextsharp.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ScrapySharp.Core.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ScrapySharp.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\System.Windows.Interactivity.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Business_Layer.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.dll.config
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.dll.config
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Data_Layer.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlzEx.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\FSharp.Core.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\itextsharp.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\cs\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\de\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\en\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\es\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\fr\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\it\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ja\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ko\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\pl\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\pt-BR\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ru\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\tr\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\zh-Hans\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\zh-Hant\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csprojAssemblyReference.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\App.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindowPrecios.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaBackup.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\App.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_Content.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.lref
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde_Black.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\ToggleButtonGeneric.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindowPrecios.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaBackup.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.g.resources
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Properties.Resources.resources
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Archivos.resources
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Mensajes.resources
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.StringsCierreDeCaja.resources
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.GenerateResource.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CoreCompileInputs.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.TrustInfo.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe.manifest
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.application
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CopyComplete
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csprojAssemblyReference.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\App.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindowPrecios.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaBackup.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\App.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_Content.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.lref
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde_Black.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\ToggleButtonGeneric.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindowPrecios.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaBackup.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.g.resources
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Properties.Resources.resources
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Archivos.resources
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Mensajes.resources
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.StringsCierreDeCaja.resources
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.GenerateResource.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CoreCompileInputs.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.TrustInfo.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avcodec-57.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avdevice-57.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avfilter-6.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avformat-57.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avutil-55.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\postproc-54.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\swresample-2.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\swscale-4.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Resources\Icono_Usuario.png
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Accord.dll.config
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.config
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.manifest
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.application
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Business_Layer.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlzEx.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Data_Layer.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\FSharp.Core.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\itextsharp.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ScrapySharp.Core.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ScrapySharp.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\System.Windows.Interactivity.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Business_Layer.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.dll.config
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.dll.config
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Data_Layer.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlzEx.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\FSharp.Core.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\itextsharp.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\cs\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\de\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\en\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\es\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\fr\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\it\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ja\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ko\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\pl\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\pt-BR\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ru\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\tr\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\zh-Hans\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\zh-Hant\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe.manifest
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.application
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CopyComplete
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avcodec-57.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avdevice-57.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avfilter-6.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avformat-57.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\avutil-55.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\postproc-54.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\swresample-2.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\swscale-4.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Resources\Icono_Usuario.png
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Accord.dll.config
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.config
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe.manifest
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.application
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.exe
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\SupervisorComercio.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Business_Layer.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlzEx.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Data_Layer.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\FSharp.Core.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\itextsharp.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ScrapySharp.Core.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ScrapySharp.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\System.Windows.Interactivity.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Business_Layer.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ChromeTabs.dll.config
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlDeVentana.dll.config
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Data_Layer.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\Xceed.Wpf.Toolkit.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ControlzEx.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\FSharp.Core.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\HtmlAgilityPack.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\itextsharp.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.DirectShow.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.Video.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\AForge.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\cs\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\de\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\en\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\es\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\fr\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\it\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ja\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ko\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\pl\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\pt-BR\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\ru\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\tr\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\zh-Hans\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\bin\Release\zh-Hant\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csprojAssemblyReference.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\App.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindowPrecios.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaBackup.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\App.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_Content.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio_MarkupCompile.lref
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\Boton_Tilde_Black.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Resources\Styles\ToggleButtonGeneric.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Configuraciones.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ConfiguracionTicketera.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\ContraseñaAdmin.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Gestor_Empleados.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindowPrecios.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\MainWindow.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ingresar_Pedido.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Login.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Testeos\Test.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Validacion.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaBackup.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaIngresoEgresoEmpleados.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaPlanillaHorarios.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\VentanaVinculacion.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Usuarios.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\Ventanas\Ventana_Pagos.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.g.resources
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Properties.Resources.resources
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Archivos.resources
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.Mensajes.resources
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio.Resources.Strings.StringsCierreDeCaja.resources
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.GenerateResource.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CoreCompileInputs.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.TrustInfo.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe.manifest
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.application
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupComercio(Visual Layer).csproj.CopyComplete
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.exe
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabsRunner\obj\x86\Release\SupervisorComercio.pdb

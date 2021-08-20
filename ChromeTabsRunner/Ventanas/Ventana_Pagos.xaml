@@ -1,0 +1,72 @@
+﻿<Window x:Name="VentanaPago"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:drag="clr-namespace:DragHelper"
+        xmlns:ControlDeVentana="clr-namespace:ControlDeVentana;assembly=ControlDeVentana"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" 
+        xmlns:Converters="clr-namespace:SupComercio.Resources.Converters" x:Class="SupComercio.Ventanas.VentanaPagos"
+        mc:Ignorable="d" SizeToContent="Height"
+        Title="Ventana Pagos" Height="Auto" Width="800" WindowStyle="None" AllowsTransparency="True"
+        ResizeMode="NoResize" Icon="/SupervisorComercio;component/Resources/icono.ico">
+    <Window.Resources>
+        <Converters:InverseBooleanConverter x:Key="InverseBooleanConverter"/>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+        <Converters:BooleanOrConverter x:Key="BooleanOrConverter"/>
+    </Window.Resources>
+    <Grid Height="Auto" Width="Auto">
+        <!--#region Estilo-->
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="190.018"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="109"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/SupervisorComercio;component/Resources/Fondo de software.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Border drag:EnableDragHelper.EnableDrag="True" Height="30" VerticalAlignment="Top" Background="#FF2D2D30" Grid.ColumnSpan="2"/>
+        <ControlDeVentana:ControlVentana Height="25" VerticalAlignment="Center" HorizontalAlignment="Right" Width="83" Grid.Column="1"/>
+        <!--#endregion-->
+
+        <!--#region Controles-->
+
+        <Label Content="Paga Con:" HorizontalAlignment="Left" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="10,10,0,0" VerticalAlignment="Top" Height="83" Width="780" FontSize="48" Grid.ColumnSpan="2" Grid.Row="1"/>
+        <ToggleButton x:Name="Boton_Pago_Debito" Content="Debito" HorizontalAlignment="Center" Margin="10,108,10,0" VerticalAlignment="Top" Height="72" Width="380" FontSize="48" Grid.Row="1"/>
+        <ToggleButton x:Name="Boton_Pago_Efectivo" Content="Efectivo" HorizontalAlignment="Center" Margin="10,108,10,0" VerticalAlignment="Top" Height="72" Width="380" FontSize="48" Grid.Column="1" Grid.Row="1" IsChecked="{Binding IsChecked, Converter={StaticResource InverseBooleanConverter}, ElementName=Boton_Pago_Debito}"/>
+        <Button x:Name="Boton_Finalizar" Content="Finalizar" Margin="10,0,10,10" VerticalAlignment="Bottom" Height="72" FontSize="48" Grid.Row="3" Click="Boton_Finalizar_Click" IsDefault="True">
+            <Button.IsEnabled>
+                <MultiBinding Converter="{StaticResource BooleanOrConverter}">
+                    <Binding ElementName="Boton_Pago_Debito" Path="IsChecked"/>
+                    <Binding ElementName="Boton_Pago_Efectivo" Path="IsChecked"/>
+                </MultiBinding>
+            </Button.IsEnabled>
+        </Button>
+        <Grid x:Name="Grid_Pago_Efectivo" Grid.Row="2" Grid.ColumnSpan="2" Visibility="{Binding IsChecked, Converter={StaticResource BooleanToVisibilityConverter}, ElementName=Boton_Pago_Efectivo}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <DockPanel LastChildFill="True" Margin="10,10,10,0" Height="60" VerticalAlignment="Top">
+                <Label x:Name="Label_Paga_Con" Background="White" Content="Paga con: $" BorderThickness="1,1,0,1" BorderBrush="Gray" VerticalContentAlignment="Center" FontSize="24" DockPanel.Dock="Left" Width="135"/>
+                <TextBox x:Name="Box_Paga_Con" KeyUp="Box_Paga_Con_KeyUp" Text="00,00" SelectionBrush="DodgerBlue" BorderThickness="0,1,1,1" BorderBrush="Gray" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="24"/>
+            </DockPanel>
+            <DockPanel Grid.Column="1" LastChildFill="True" Margin="10,10,10,0" Height="60" VerticalAlignment="Top">
+                <Label Content="Vuelto:     $" Background="White" BorderThickness="1,1,0,1" BorderBrush="Gray" Height="60" FontSize="24" VerticalContentAlignment="Center" Width="135"/>
+                <Label x:Name="label_Vuelto" Content="00,00" Background="White" BorderThickness="0,1,1,1" BorderBrush="Gray" FontSize="24" VerticalContentAlignment="Center"/>
+            </DockPanel>
+        </Grid>
+        <Button x:Name="Boton_Cancelar" Content="Cancelar" Margin="10,0,10,10" VerticalAlignment="Bottom" Height="72" FontSize="48" Grid.Row="3" Click="Boton_Finalizar_Debito_Click" Grid.Column="1" IsCancel="True"/>
+
+        <!--#endregion-->
+
+    </Grid>
+</Window>

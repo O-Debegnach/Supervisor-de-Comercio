@@ -1,0 +1,562 @@
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\avcodec-57.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\avdevice-57.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\avfilter-6.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\avformat-57.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\avutil-55.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\postproc-54.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\swresample-2.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\swscale-4.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\Accord.dll.config
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.dll.config
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.DirectShow.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\Business_Layer.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\Data_Layer.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\ScrapySharp.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\itextsharp.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\ScrapySharp.Core.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\FSharp.Core.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\Business_Layer.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\Data_Layer.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.DirectShow.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\itextsharp.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\FSharp.Core.xml
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\cs\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\de\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\en\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\es\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\fr\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\it\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\ja\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\ko\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\pl\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\ru\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\tr\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csprojAssemblyReference.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\CheckBox.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlVentana.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\PlanillaHorarios.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\WebCamControl.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.lref
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\CheckBox.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlVentana.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\PlanillaHorarios.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\WebCamControl.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.g.resources
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.Properties.Resources.resources
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csproj.GenerateResource.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csproj.CopyComplete
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\avcodec-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\avdevice-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\avfilter-6.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\avformat-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\avutil-55.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\postproc-54.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\swresample-2.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\swscale-4.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\Accord.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\Business_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\Data_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\ScrapySharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\itextsharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\ScrapySharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\FSharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\Business_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\Data_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\itextsharp.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\FSharp.Core.xml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csprojAssemblyReference.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\CheckBox.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlVentana.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\PlanillaHorarios.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\WebCamControl.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.lref
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\CheckBox.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlVentana.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\PlanillaHorarios.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\WebCamControl.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.g.resources
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.Properties.Resources.resources
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csproj.GenerateResource.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csproj.CopyComplete
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\avcodec-57.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\avdevice-57.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\avfilter-6.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\avformat-57.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\avutil-55.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\postproc-54.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\swresample-2.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\swscale-4.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\Accord.dll.config
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.dll.config
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\Business_Layer.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\Data_Layer.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\ScrapySharp.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\itextsharp.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\ScrapySharp.Core.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\FSharp.Core.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\Business_Layer.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\Data_Layer.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\itextsharp.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\FSharp.Core.xml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csprojAssemblyReference.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\CheckBox.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlVentana.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\PlanillaHorarios.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\WebCamControl.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.lref
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\CheckBox.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlVentana.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\PlanillaHorarios.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\WebCamControl.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.g.resources
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.Properties.Resources.resources
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csproj.GenerateResource.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csproj.CopyComplete
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\avcodec-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\avdevice-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\avfilter-6.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\avformat-57.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\avutil-55.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\postproc-54.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\swresample-2.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\swscale-4.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\Accord.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\ControlDeVentana.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\Business_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\Data_Layer.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\ScrapySharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\itextsharp.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\ScrapySharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\FSharp.Core.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\Business_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\Data_Layer.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\HtmlAgilityPack.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\itextsharp.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\FSharp.Core.xml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csprojAssemblyReference.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\CheckBox.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlVentana.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\PlanillaHorarios.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\WebCamControl.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.lref
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\CheckBox.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlVentana.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\PlanillaHorarios.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\WebCamControl.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.g.resources
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.Properties.Resources.resources
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csproj.GenerateResource.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\Controles.csproj.CopyComplete
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ControlDeVentana\obj\Release\ControlDeVentana.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avcodec-57.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avdevice-57.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avfilter-6.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avformat-57.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avutil-55.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\postproc-54.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\swresample-2.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\swscale-4.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Accord.dll.config
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.dll.config
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Business_Layer.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Data_Layer.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ScrapySharp.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\itextsharp.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ScrapySharp.Core.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\FSharp.Core.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Business_Layer.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Data_Layer.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\itextsharp.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\FSharp.Core.xml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\cs\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\de\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\en\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\es\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\fr\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ja\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ko\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\pl\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\tr\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\CheckBox.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlVentana.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\PlanillaHorarios.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\WebCamControl.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.cache
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.lref
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\CheckBox.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlVentana.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\PlanillaHorarios.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\WebCamControl.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.g.resources
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.Properties.Resources.resources
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.CopyComplete
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avcodec-57.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avdevice-57.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avfilter-6.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avformat-57.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avutil-55.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\postproc-54.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\swresample-2.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\swscale-4.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Accord.dll.config
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.dll.config
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.DirectShow.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Business_Layer.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Data_Layer.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ScrapySharp.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\itextsharp.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ScrapySharp.Core.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\FSharp.Core.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Business_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Data_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.DirectShow.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\itextsharp.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\FSharp.Core.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\cs\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\de\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\en\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\es\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\fr\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\it\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ja\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ko\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\pl\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\pt-BR\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ru\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\tr\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\zh-Hans\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\zh-Hant\FSharp.Core.resources.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csprojAssemblyReference.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\CheckBox.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlVentana.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\PlanillaHorarios.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\WebCamControl.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.lref
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\CheckBox.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlVentana.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\PlanillaHorarios.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\WebCamControl.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.g.resources
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.Properties.Resources.resources
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.GenerateResource.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.CopyComplete
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avcodec-57.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avdevice-57.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avfilter-6.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avformat-57.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avutil-55.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\postproc-54.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\swresample-2.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\swscale-4.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Accord.dll.config
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.dll.config
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.DirectShow.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Business_Layer.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Data_Layer.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ScrapySharp.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\itextsharp.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ScrapySharp.Core.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\FSharp.Core.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Business_Layer.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Data_Layer.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.DirectShow.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\itextsharp.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\FSharp.Core.xml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\cs\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\de\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\en\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\es\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\fr\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\it\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ja\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ko\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\pl\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\pt-BR\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ru\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\tr\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\zh-Hans\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\zh-Hant\FSharp.Core.resources.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csprojAssemblyReference.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\CheckBox.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlVentana.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\PlanillaHorarios.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\WebCamControl.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.lref
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\CheckBox.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlVentana.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\PlanillaHorarios.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\WebCamControl.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.g.resources
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.Properties.Resources.resources
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.GenerateResource.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.CoreCompileInputs.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.CopyComplete
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avcodec-57.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avdevice-57.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avfilter-6.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avformat-57.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avutil-55.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\postproc-54.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\swresample-2.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\swscale-4.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Accord.dll.config
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.dll.config
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.DirectShow.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Business_Layer.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Data_Layer.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ScrapySharp.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\itextsharp.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ScrapySharp.Core.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\FSharp.Core.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Business_Layer.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Data_Layer.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.DirectShow.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\itextsharp.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\FSharp.Core.xml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\cs\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\de\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\en\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\es\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\fr\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\it\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ja\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ko\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\pl\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\pt-BR\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ru\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\tr\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\zh-Hans\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\zh-Hant\FSharp.Core.resources.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csprojAssemblyReference.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\CheckBox.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlVentana.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\PlanillaHorarios.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\WebCamControl.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.lref
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\CheckBox.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlVentana.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\PlanillaHorarios.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\WebCamControl.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.g.resources
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.Properties.Resources.resources
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.GenerateResource.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.CoreCompileInputs.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.CopyComplete
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avcodec-57.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avdevice-57.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avfilter-6.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avformat-57.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\avutil-55.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\postproc-54.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\swresample-2.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\swscale-4.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Accord.dll.config
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.dll.config
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ControlDeVentana.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.DirectShow.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Business_Layer.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Data_Layer.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ScrapySharp.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\itextsharp.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ScrapySharp.Core.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\FSharp.Core.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Business_Layer.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\Data_Layer.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\AForge.Video.DirectShow.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\HtmlAgilityPack.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\itextsharp.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\FSharp.Core.xml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\cs\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\de\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\en\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\es\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\fr\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\it\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ja\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ko\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\pl\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\pt-BR\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\ru\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\tr\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\zh-Hans\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\bin\Release\zh-Hant\FSharp.Core.resources.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csprojAssemblyReference.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\CheckBox.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlVentana.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\PlanillaHorarios.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\WebCamControl.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana_MarkupCompile.lref
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\CheckBox.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlVentana.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\PlanillaHorarios.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\WebCamControl.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.g.resources
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.Properties.Resources.resources
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.GenerateResource.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.CoreCompileInputs.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\Controles.csproj.CopyComplete
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ControlDeVentana\obj\Release\ControlDeVentana.pdb

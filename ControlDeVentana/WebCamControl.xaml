@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="ControlDeVentana.WebCamControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ControlDeVentana"
+             mc:Ignorable="d" Width="387.113" Height="392.784">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="32"/>
+        </Grid.RowDefinitions>
+        <Border BorderBrush="Black"
+                x:Name="Border_Camara"
+                BorderThickness="1">
+            <Image  x:Name="Camara_Control" Stretch="UniformToFill"/>
+        </Border>
+        <Border Visibility="Collapsed"
+                x:Name="Border_Foto"
+                BorderBrush="Black"
+                BorderThickness="1">
+            <Image x:Name="Foto_Control" Stretch="UniformToFill"/>
+        </Border>
+        <Grid x:Name="GdSeleccionarCamara" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="145"/>
+            </Grid.ColumnDefinitions>
+            <ComboBox x:Name="ComboCamaras"
+                      Grid.Column="0"
+                      Margin="0,10,10,0"
+                      SelectedIndex="0"
+                      DisplayMemberPath="Name"
+                      ItemsSource="{Binding Camaras}"
+                      SelectionChanged="ComboCamaras_SelectionChanged"/>
+            <Button x:Name="btSeleccionarCamara" Grid.Column="1" Margin="0,10,0,0" Height="Auto" Content="Activar Camara" Click="btSeleccionarCamara_Click"/>
+        </Grid>
+        <Grid x:Name="GdTomarFoto" Grid.Row="1" Visibility="Collapsed">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="btTomarFoto" Grid.Column="0" Margin="0,10,5,0" Content="Tomar Foto" Click="btTomarFoto_Click"/>
+            <Button x:Name="btCambiarCamara" Grid.Column="1" Margin="5,10,0,0" Content="CambiarCamara" Click="btCambiarCamara_Click"/>
+        </Grid>
+        <Grid x:Name="GdDescartar" Grid.Row="1" Visibility="Collapsed">
+            <Button x:Name="btDescartar" Content="Descartar Foto" Margin="0,10,0,0" Click="btDescartar_Click"/>
+        </Grid>
+    </Grid>
+</UserControl>

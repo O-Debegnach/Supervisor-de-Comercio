@@ -1,0 +1,269 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SupComercio.Ventanas"
+        xmlns:drag="clr-namespace:DragHelper"
+        xmlns:ControlDeVentana="clr-namespace:ControlDeVentana;assembly=ControlDeVentana"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Name="window" x:Class="SupComercio.Ventanas.GestorEmpleados"
+        xmlns:Converters="clr-namespace:SupComercio.Resources.Converters"
+        xmlns:txtMode="clr-namespace:Business_Layer.Text;assembly=Business_Layer"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        StateChanged="Window_StateChanged"
+        AllowsTransparency="True" LostFocus="window_LostFocus" GotFocus="window_GotFocus"
+        Title="GestorEmpleados" Height="724" Width="917">
+    <Window.Resources>
+        <Converters:IndexToBoolConverter x:Key="IndexToBoolConverter"/>
+        <Converters:EqualIndexesToBoolConverter x:Key="EqualIdexesToBoolConverter"/>
+        <Converters:MayorToBoolConverter x:Key="MayorToBool"/>
+        <Converters:BitmapToImageSourceConverter x:Key="BitmapToImageSourceConverter"/>
+    </Window.Resources>
+    <Grid>
+        <!--#region Estilo-->
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="339*"/>
+            <RowDefinition Height="86*"/>
+
+        </Grid.RowDefinitions>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="/SupervisorComercio;component/Resources/Fondo de software.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Border drag:EnableDragHelper.EnableDrag="True" Height="25" VerticalAlignment="Top" Background="#FF2D2D30"/>
+        <ControlDeVentana:ControlVentana x:Name="ctrlVentana" HorizontalAlignment="Right" HaveMaximize="False"/>
+        <!--#endregion-->
+
+        <!--Listado Empleados-->
+        <Grid x:Name="GdListadoEmpleados" Grid.Row="1" Grid.RowSpan="2" d:IsHidden="True">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition MaxWidth="400"/>
+                <ColumnDefinition MaxWidth="400"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="128*"/>
+                <RowDefinition Height="35*"/>
+                <RowDefinition Height="90"/>
+            </Grid.RowDefinitions>
+            <DataGrid x:Name="DGEmpleados"
+                    Margin="10,10,7,2"
+                    IsReadOnly="True"
+                    AutoGenerateColumns="False" ItemsSource="{Binding ListaEmpleados, ElementName=window, UpdateSourceTrigger=PropertyChanged}" SelectionChanged="DGEmpleados_SelectionChanged" Grid.RowSpan="2">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Nombre" Width="5*" Binding="{Binding Nombre}"/>
+                    <DataGridTextColumn Header="Apellido" Width="3*" Binding="{Binding Apellido}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <!--#region Info Empleado-->
+            <Image x:Name="FotoEmpleado" HorizontalAlignment="Left" Height="100" Margin="2,10,0,0" VerticalAlignment="Top" Width="100" Source="{Binding Imagen, ElementName=window, UpdateSourceTrigger=PropertyChanged, Converter={StaticResource BitmapToImageSourceConverter}}" Grid.Column="1" Stretch="UniformToFill"/>
+
+            <!--Labels Info-->
+            <Label Content="Nombres:" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Margin="107,10,0,0" VerticalAlignment="Top" Height="31" Width="81"/>
+            <Label Content="{Binding Nombre, ElementName=window, UpdateSourceTrigger=PropertyChanged}" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" Margin="189,10,0,0" VerticalAlignment="Top" Height="31"/>
+
+            <Label Content="Apellido:" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Margin="107,41,0,0" VerticalAlignment="Top" Height="31" Width="74"/>
+            <Label Content="{Binding Apellido, ElementName=window, UpdateSourceTrigger=PropertyChanged}" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" Margin="181,41,0,0" VerticalAlignment="Top" Height="31"/>
+
+            <Label Content="Cuil:" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Margin="107,72,0,0" VerticalAlignment="Top" Height="31" Width="41"/>
+            <Label Content="{Binding Cuil, ElementName=window, UpdateSourceTrigger=PropertyChanged}" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" Margin="148,72,0,0" VerticalAlignment="Top" Height="31"/>
+
+            <Label Content="Precio Hora:" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Margin="2,115,0,0" VerticalAlignment="Top" Height="31" Width="99"/>
+            <Label Content="{Binding PrecioHora, ElementName=window, UpdateSourceTrigger=PropertyChanged}" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" Margin="101,115,0,0" VerticalAlignment="Top" Height="31"/>
+
+            <Label Content="Horas Trabajadas:" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Margin="2,177,0,0" VerticalAlignment="Top" Height="31" Width="138"/>
+            <Label Content="{Binding HorasTrabajadas, ElementName=window, UpdateSourceTrigger=PropertyChanged}" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" Margin="140,177,0,0" VerticalAlignment="Top" Height="31"/>
+
+            <Label Content="Sueldo:" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Margin="2,146,0,0" VerticalAlignment="Top" Height="31" Width="64"/>
+            <Label Content="{Binding Sueldo, ElementName=window, NotifyOnSourceUpdated=True, StringFormat=\{0:F2\}}" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" Margin="66,146,0,0" VerticalAlignment="Top" Height="31"/>
+
+            <!--Labels Contacto-->
+            <Label Content="Datos de Contacto" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Margin="2,224,0,0" VerticalAlignment="Top" Height="31" Width="145"/>
+
+            <Label Content="Telefono Fijo:" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Margin="2,260,0,0" VerticalAlignment="Top" Height="31" Width="107"/>
+            <Label Content="{Binding Telefono, ElementName=window, UpdateSourceTrigger=PropertyChanged}" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" Margin="109,260,0,0" VerticalAlignment="Top" Height="31"/>
+
+            <Label Content="Celular:" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Margin="2,291,0,0" VerticalAlignment="Top" Height="31" Width="65"/>
+            <Label Content="{Binding Celular, ElementName=window, UpdateSourceTrigger=PropertyChanged}" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" Margin="67,291,0,0" VerticalAlignment="Top" Height="31"/>
+
+            <Label Content="Email:" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Margin="2,322,0,0" VerticalAlignment="Top" Height="31" Width="53"/>
+            <Label Content="{Binding Email, ElementName=window, UpdateSourceTrigger=PropertyChanged}" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" Margin="55,322,0,0" VerticalAlignment="Top" Height="31"/>
+
+            <Label Content="Domicilio:" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Margin="2,353,0,0" VerticalAlignment="Top" Height="31" Width="83"/>
+            <Label Content="{Binding Domicilio, ElementName=window, UpdateSourceTrigger=Explicit}" Foreground="GhostWhite" FontWeight="DemiBold" FontSize="16" Grid.Column="1" Margin="85,353,0,0" VerticalAlignment="Top" Height="31"/>
+            <Button x:Name="btEditar" Content="Editar Empleado" Margin="10,0,9,35"  Height="20" VerticalAlignment="Bottom" Click="BtEditar_Click" Grid.Row="2" IsEnabled="{Binding SelectedIndex, Converter={StaticResource IndexToBoolConverter}, ElementName=DGEmpleados}"/>
+            <Button x:Name="btDespedir" Content="Despedir Empleado" Margin="10,0,9,10" Click="BtDespedir_Click" Height="20" VerticalAlignment="Bottom" Grid.Row="2" IsEnabled="{Binding SelectedIndex, Converter={StaticResource IndexToBoolConverter}, ElementName=DGEmpleados}"/>
+            <Button x:Name="brCrear" Content="Agregar Nuevo Empleado" Margin="10,0,9,60" Height="20" VerticalAlignment="Bottom" Click="ButtonCrear_Click" Grid.Row="2" />
+            <DataGrid x:Name="DgVales"
+                      AutoGenerateColumns="False"
+                        Grid.Column="1" 
+                        Margin="10.333,30,9,10" 
+                        IsSynchronizedWithCurrentItem="True"
+                        CanUserDeleteRows="True" ItemsSource="{Binding ElementName=window, Path=Vales, UpdateSourceTrigger=PropertyChanged}"
+                        IsReadOnly="True" Grid.RowSpan="2" Grid.ColumnSpan="2" Grid.Row="1">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Producto}" ClipboardContentBinding="{Binding Producto}" Header="Producto" Width="1.5*"/>
+                    <DataGridTextColumn Binding="{Binding Cantidad}" ClipboardContentBinding="{Binding Cantidad}" Header="Cantidad" Width="*"/>
+                    <DataGridTextColumn Binding="{Binding Precio}" ClipboardContentBinding="{Binding Precio}" Header="Precio" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <ControlDeVentana:PlanillaHorarios x:Name="PlanillaInfo" IntervaloHoras="1" FontSize="8" Grid.Column="2" Margin="10,10,9.5,0" Background="White"/>
+            <Button x:Name="BtPagarSueldo" Content="Pagar sueldo" Grid.Column="1" Margin="10.333,5,10.333,0" Grid.Row="1" VerticalAlignment="Top" Click="BtPagarSueldo_Click" IsEnabled="{Binding SelectedIndex, Converter={StaticResource IndexToBoolConverter}, ElementName=DGEmpleados}"/>
+            <!--#endregion Info Empleados-->
+        </Grid>
+
+        <!--Agregar Nuevo Empleado-->
+        <Grid x:Name="GdNuevoEmpleado" Grid.Row="1" Visibility="Collapsed" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="146"/>
+                <ColumnDefinition Width="146"/>
+                <ColumnDefinition Width="294"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="205*"/>
+                <RowDefinition Height="334*"/>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.ColumnSpan="2" Margin="10">
+                <StackPanel x:Name="SpSeleccion" Orientation="Vertical" VerticalAlignment="Top" Margin="0,21,0,0" >
+                    <Button x:Name="btSacarFoto" Content="Tomar foto"  Margin="5" Click="BtSacarFoto_Click" IsEnabled="{Binding IsCameraFinded, ElementName=WebCam}"/>
+                    <Button x:Name="btDesdeArchivo" Content="Cargar foto" Margin="5 0" Click="BtDesdeArchivo_Click"/>
+                </StackPanel>
+                <ControlDeVentana:WebCamControl x:Name="WebCam" Height="170" Width="224" Visibility="Collapsed"/>
+                <Grid x:Name="BFoto" Visibility="Collapsed">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="32"/>
+                    </Grid.RowDefinitions>
+                    <Border BorderThickness="1" BorderBrush="Black">
+                        <Image x:Name="Foto" Stretch="UniformToFill" Source="{Binding Imagen, Converter={StaticResource BitmapToImageSourceConverter}, ElementName=window}" />
+                    </Border>
+                    <Button x:Name="btDescartar" Click="BtDescartar_Click" Grid.Row="1" Content="Descartar" Margin="0,10,0,0"/>
+                </Grid>
+            </Grid>
+            <Label Content="*_Nombre" Target="{Binding ElementName=txtNombre}" FontWeight="DemiBold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="11,10,0,0" Grid.Column="2" Foreground="#FFDDDDDD" Height="26" Width="60"/>
+            <TextBox x:Name="txtNombre" Height="23" Margin="10,36,15,0" TextWrapping="Wrap" Text="{Binding Nombre, ElementName=window}" VerticalAlignment="Top" Grid.Column="2"/>
+
+            <Label Content="*_Apellido" Target="{Binding ElementName=txtApellido}" FontWeight="DemiBold" HorizontalAlignment="Left" Margin="11,59,0,0" VerticalAlignment="Top" Grid.Column="2" Foreground="#FFDDDDDD" Height="26" Width="61"/>
+            <TextBox x:Name="txtApellido"  Height="23" Margin="10,85,15,0" TextWrapping="Wrap" Text="{Binding Apellido, ElementName=window}" VerticalAlignment="Top" Grid.Column="2"/>
+
+            <Label Content="*_Cuil" Target="{Binding ElementName=txtCuil}" FontWeight="DemiBold" HorizontalAlignment="Left" Margin="11,108,0,0" VerticalAlignment="Top" Grid.Column="2" Foreground="#FFDDDDDD" Height="26" Width="36"/>
+            <TextBox x:Name="txtCuil" Height="23" Margin="10,134,15,0" TextWrapping="Wrap" Text="{Binding Cuil, ElementName=window}" VerticalAlignment="Top" Grid.Column="2"/>
+
+            <Label Content="*Ca_rgo" Target="{Binding ElementName=txtCargo}" FontWeight="DemiBold" HorizontalAlignment="Left" Margin="11,157,0,0" VerticalAlignment="Top" Grid.Column="2" Foreground="#FFDDDDDD" Height="26" Width="48"/>
+            <TextBox x:Name="txtCargo" Height="23" Margin="10,183,15,0" TextWrapping="Wrap" Text="{Binding Cargo, ElementName=window}" VerticalAlignment="Top" Grid.Column="2" Grid.RowSpan="2"/>
+
+            <Label Content="*_Precio Hora" Target="{Binding ElementName=txtPrecioHora}" FontWeight="DemiBold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="11,6,0,0" Foreground="#FFDDDDDD" Height="26" Grid.Column="2" Grid.Row="1" Width="79"/>
+            <TextBox x:Name="txtPrecioHora"  Height="22" Margin="10,32,15,0" TextWrapping="Wrap" Text="{Binding PrecioHora, ElementName=window}" VerticalAlignment="Top" Grid.Column="2" Grid.Row="1"/>
+
+            <Label Content="Datos de Contacto" HorizontalAlignment="Left" Margin="10,32,0,0" VerticalAlignment="Top" Foreground="#FFDDDDDD" Height="26" Width="109" Grid.Row="1"/>
+
+            <Label Content="_Telefono Fijo" Target="{Binding ElementName=txtTelefono}" HorizontalAlignment="Left" Margin="10,62,0,0" Foreground="#FFDDDDDD" Width="77" Grid.Row="1" Height="26" VerticalAlignment="Top"/>
+            <TextBox x:Name="txtTelefono" Height="24" Margin="10,88,10,0" TextWrapping="Wrap" Text="{Binding Telefono, ElementName=window}" VerticalAlignment="Top" Grid.Row="1" Grid.ColumnSpan="2"/>
+
+            <Label Content="_Celular" Target="{Binding ElementName=txtCelular}" HorizontalAlignment="Left" Margin="10,116,0,0" VerticalAlignment="Top" Foreground="#FFDDDDDD" Height="26" Width="47" Grid.Row="1"/>
+            <TextBox x:Name="txtCelular" Height="24" Margin="10,142,10,0" TextWrapping="Wrap" Text="{Binding Celular, ElementName=window}" VerticalAlignment="Top" Grid.Row="1" Grid.ColumnSpan="2"/>
+
+            <Label Content="_E-mail" Target="{Binding ElementName=txtEmail}" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top" Foreground="#FFDDDDDD" Grid.Column="2" Height="26" Width="43" Grid.Row="1"/>
+            <TextBox x:Name="txtEmail" Height="24" Margin="10,88,13,0" TextWrapping="Wrap" Text="{Binding Email, ElementName=window}" VerticalAlignment="Top" Grid.Column="2" Grid.Row="1"/>
+
+            <Label Content="*_Domicilio" Target="{Binding ElementName=txtDomicilio}" HorizontalAlignment="Left" Margin="10,116,0,0" VerticalAlignment="Top" Foreground="#FFDDDDDD" Grid.Column="2" Height="26" Width="65" Grid.Row="1"/>
+            <TextBox x:Name="txtDomicilio" Height="24" Margin="10,142,13,0" TextWrapping="Wrap" Text="{Binding Domicilio, ElementName=window}" VerticalAlignment="Top" Grid.Column="2" Grid.Row="1"/>
+
+            <Button x:Name="btAceptar" Content="Aceptar" Margin="10" Grid.Row="2" Click="BtAceptar_Click"/>
+            <Button x:Name="btCancelar" Content="Cancelar" Margin="10" Grid.Row="2" Click="BtCancelar_Click" Grid.Column="1"/>
+
+            <Label Content="* Indica campo obligatorio" HorizontalAlignment="Center" Margin="67,0,75,10" Foreground="#FFFF4F4F" Height="24" VerticalAlignment="Bottom" Grid.Row="2" Grid.Column="2" Width="152"/>
+
+
+            <ControlDeVentana:PlanillaHorarios x:Name="Planilla" Fill="Black" FontSize="14" Foreground="Black" Background="White" Margin="10,10,10,0" Grid.Column="3" Grid.RowSpan="2"/>
+
+            <Label Content="Entrada" FontWeight="DemiBold" VerticalAlignment="Top" Margin="10,178,15,0" Foreground="#FFDDDDDD" Height="26" Grid.Column="2" Grid.Row="1"/>
+            <xctk:TimeSpanUpDown x:Name="tpEntrada"
+                                 UpdateValueOnEnterKey="False" 
+                                 Grid.Column="2" 
+                                 CurrentDateTimePartt="Minute" 
+                                 HorizontalAlignment="Right" 
+                                 Margin="0,204,15,0" 
+                                 VerticalAlignment="Top" 
+                                 Width="133" 
+                                 TextAlignment="Center" 
+                                 Minimum="0" 
+                                 Maximum="23:59:59" 
+                                 DefaultValue="12:0:0" 
+                                 DisplayDefaultValueOnEmptyText="True" 
+                                 ShowDays="False" 
+                                 ShowSeconds="False" Grid.Row="1" Height="22" AllowTextInput="False"/>
+            <ComboBox x:Name="cbDiaEntrada" Grid.Column="2" Margin="10,204,153,0" VerticalAlignment="Top" Grid.Row="1" Height="22" SelectedIndex="0">
+                <ComboBoxItem Content="Lunes"/>
+                <ComboBoxItem Content="Martes"/>
+                <ComboBoxItem Content="Miercoles"/>
+                <ComboBoxItem Content="Jueves"/>
+                <ComboBoxItem Content="Viernes"/>
+                <ComboBoxItem Content="Sabado"/>
+                <ComboBoxItem Content="Domingo"/>
+            </ComboBox>
+
+            <Label Content="Salida" FontWeight="DemiBold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,232,0,0" Foreground="#FFDDDDDD" Height="26" Grid.Column="2" Grid.Row="1" Width="43"/>
+            <xctk:TimeSpanUpDown x:Name="tpSalida" AllowTextInput="False" Grid.Column="2" CurrentDateTimePartt="Minute" HorizontalAlignment="Right" Margin="0,258,15,0" VerticalAlignment="Top" Width="133" TextAlignment="Center" Maximum="23:59:59" DefaultValue="12:0:0" DisplayDefaultValueOnEmptyText="True" ShowSeconds="False" ShowDays="False" Grid.Row="1" Height="22" Value="12:0:0" ClipValueToMinMax="True">
+                <xctk:TimeSpanUpDown.Style>
+                    <Style TargetType="{x:Type xctk:TimeSpanUpDown}">
+                        <Setter Property="Minimum" Value="00:00:00"/>
+                        <Style.Triggers>
+                            <DataTrigger Value="True">
+                                <DataTrigger.Binding>
+                                    <MultiBinding Converter="{StaticResource EqualIdexesToBoolConverter}">
+                                        <Binding ElementName="cbDiaSalida" Path="SelectedIndex"/>
+                                        <Binding ElementName="cbDiaEntrada" Path="SelectedIndex"/>
+                                    </MultiBinding>
+                                </DataTrigger.Binding>
+                                <Setter Property="Minimum" Value="{Binding ElementName=tpEntrada, Path=Value}"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </xctk:TimeSpanUpDown.Style>
+            </xctk:TimeSpanUpDown>
+            <ComboBox x:Name="cbDiaSalida" Grid.Column="2" Margin="10,258,153,0" VerticalAlignment="Top" Grid.Row="1" Height="22" SelectedIndex="0">
+                <ComboBoxItem Content="Lunes"/>
+                <ComboBoxItem Content="Martes"/>
+                <ComboBoxItem Content="Miercoles"/>
+                <ComboBoxItem Content="Jueves"/>
+                <ComboBoxItem Content="Viernes"/>
+                <ComboBoxItem Content="Sabado"/>
+                <ComboBoxItem Content="Domingo"/>
+            </ComboBox>
+            <Button x:Name="btAgregarHorario" Content="Agregar a Horario" Grid.Column="2" Margin="10,295,15,0" VerticalAlignment="Top" Click="BtAgregarHorario_Click" Grid.Row="1" Height="20">
+                <Button.IsEnabled>
+                    <MultiBinding Converter="{StaticResource MayorToBool}">
+                        <Binding ElementName="tpSalida" Path="Value"/>
+                        <Binding ElementName="tpEntrada" Path="Value"/>
+                        <Binding ElementName="cbDiaSalida" Path="SelectedIndex"/>
+                        <Binding ElementName="cbDiaEntrada" Path="SelectedIndex"/>
+                    </MultiBinding>
+                </Button.IsEnabled>
+
+            </Button>
+            <ComboBox x:Name="cbLimpiarHorario" Grid.Column="2" Margin="10,367,153,0" VerticalAlignment="Top" Grid.Row="1" Height="22" SelectedIndex="0">
+                <ComboBoxItem Content="Lunes"/>
+                <ComboBoxItem Content="Martes"/>
+                <ComboBoxItem Content="Miercoles"/>
+                <ComboBoxItem Content="Jueves"/>
+                <ComboBoxItem Content="Viernes"/>
+                <ComboBoxItem Content="Sabado"/>
+                <ComboBoxItem Content="Domingo"/>
+            </ComboBox>
+            <Label Content="Limpiar Horario" Foreground="GhostWhite" FontWeight="DemiBold" Grid.Column="2" HorizontalAlignment="Left" Margin="10,336,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+            <Button x:Name="btLimpiarHorario" Click="btLimpiarHorario_Click" Content="Limpiar Hoario" Grid.Column="2" HorizontalAlignment="Left" Margin="146,367,0,0" Grid.Row="1" VerticalAlignment="Top" Width="133" Height="22"/>
+        </Grid>
+
+    </Grid>
+
+
+</Window>

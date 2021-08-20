@@ -1,0 +1,12 @@
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\bin\Debug\Fusionador de Stock.exe.config
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\bin\Debug\Fusionador de Stock.exe
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\bin\Debug\Fusionador de Stock.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\obj\Debug\Fusionador de Stock.csprojAssemblyReference.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\obj\Debug\Fusionador de Stock.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\obj\Debug\Fusionador de Stock.exe
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\obj\Debug\Fusionador de Stock.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\bin\Debug\Data_Layer.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\bin\Debug\itextsharp.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\bin\Debug\Data_Layer.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\bin\Debug\itextsharp.xml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\Fusionador de Stock\obj\Debug\Fusionador de Stock.csproj.CopyComplete

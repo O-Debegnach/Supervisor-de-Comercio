@@ -1,0 +1,113 @@
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.dll.config
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.pdb
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.csprojAssemblyReference.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabs\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.cache
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.lref
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabs\obj\Release\Themes\Generic.baml
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.g.resources
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.dll
+C:\wsgi-app\cosas\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.csprojAssemblyReference.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabs\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.cache
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.lref
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabs\obj\Release\Themes\Generic.baml
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.g.resources
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.dll
+C:\Users\andre\Mega\MEGAsync Uploads\VisualStudio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.dll.config
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.pdb
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.csprojAssemblyReference.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabs\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.cache
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.lref
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabs\obj\Release\Themes\Generic.baml
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.g.resources
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.dll
+C:\Users\debeg\Desktop\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.dll.config
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.pdb
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.csprojAssemblyReference.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabs\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.cache
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.lref
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabs\obj\Release\Themes\Generic.baml
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.g.resources
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.dll
+C:\Users\andre\Mega\MEGAsync Uploads\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.pdb
+E:\Visual Studio\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.dll.config
+E:\Visual Studio\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabs\bin\Release\ChromeTabs.pdb
+E:\Visual Studio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.csprojAssemblyReference.cache
+E:\Visual Studio\Supervisor de Comercio\ChromeTabs\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.cache
+E:\Visual Studio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.lref
+E:\Visual Studio\Supervisor de Comercio\ChromeTabs\obj\Release\Themes\Generic.baml
+E:\Visual Studio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.g.resources
+E:\Visual Studio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.dll
+E:\Visual Studio\Supervisor de Comercio\ChromeTabs\obj\Release\ChromeTabs.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.dll.config
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.pdb
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.cache
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.lref
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\Themes\Generic.baml
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.g.resources
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.dll
+C:\Users\andre\Desktop\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.dll.config
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.pdb
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.csprojAssemblyReference.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.lref
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\Themes\Generic.baml
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.g.resources
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.dll
+E:\Visual Studio\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.dll.config
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.pdb
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.csprojAssemblyReference.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\GeneratedInternalTypeHelper.g.cs
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.lref
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\Themes\Generic.baml
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.g.resources
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.csproj.CoreCompileInputs.cache
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.dll
+T:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.dll.config
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.pdb
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.csprojAssemblyReference.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.lref
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\Themes\Generic.baml
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.g.resources
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.csproj.CoreCompileInputs.cache
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.dll
+E:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.dll.config
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\bin\Release\ChromeTabs.pdb
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.csprojAssemblyReference.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs_MarkupCompile.lref
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\Themes\Generic.baml
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.g.resources
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.csproj.CoreCompileInputs.cache
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.dll
+G:\Proyectos VS\Supervisor de Comercio (Version de la vieja)\ChromeTabs\obj\Release\ChromeTabs.pdb

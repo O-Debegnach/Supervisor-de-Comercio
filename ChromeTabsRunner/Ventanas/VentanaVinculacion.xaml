@@ -1,0 +1,56 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SupComercio.Ventanas"
+        xmlns:drag="clr-namespace:DragHelper"
+        xmlns:Controles="clr-namespace:ControlDeVentana;assembly=ControlDeVentana"
+        xmlns:Converters="clr-namespace:SupComercio.Resources.Converters" x:Class="SupComercio.Ventanas.VentanaVinculacion"
+        mc:Ignorable="d" AllowsTransparency="True" WindowStyle="None"
+        Title="VentanaVinculacion" SizeToContent="WidthAndHeight" FontSize="20">
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+        <Converters:InverseBooleanConverter x:Key="InverseBooleanConverter"/>
+    </Window.Resources>
+    <Grid>
+        <!--#region Estilo-->
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="339*"/>
+            <RowDefinition Height="86*"/>
+
+        </Grid.RowDefinitions>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="/SupervisorComercio;component/Resources/Fondo de software.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Border drag:EnableDragHelper.EnableDrag="True" Height="25" VerticalAlignment="Top" Background="#FF2D2D30"/>
+        <Controles:ControlVentana x:Name="ctrlVentana" HorizontalAlignment="Right" HaveMaximize="False"/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <ToggleButton x:Name="toggleButton" Content="Equipo Principal" Margin="10" Padding="5" IsChecked="False"/>
+            <ToggleButton x:Name="toggleButton1" Content="Equipo Secundario" Margin="10" Padding="5" Grid.Column="1" IsChecked="{Binding IsChecked, Converter={StaticResource InverseBooleanConverter}, ElementName=toggleButton}" />
+            <Grid Grid.Row="1" Grid.ColumnSpan="2" Visibility="{Binding IsChecked, Converter={StaticResource BooleanToVisibilityConverter}, ElementName=toggleButton}">
+                <Button x:Name="btServer" Content="Iniciar Servidor" HorizontalAlignment="Center" Padding="5" Margin="0 0 0 10" Click="btServer_Click"/>
+            </Grid>
+            <Grid Grid.Row="1" Grid.ColumnSpan="2" Visibility="{Binding IsChecked, Converter={StaticResource BooleanToVisibilityConverter}, ElementName=toggleButton1}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="txtIP" Grid.Column="0" Text="IP" Margin="10 0 10 10" VerticalContentAlignment="Center"/>
+                <Button x:Name="btCliente" Content="Conectar" Grid.Column="1" Margin="0 0 10 10" Click="btCliente_Click"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
